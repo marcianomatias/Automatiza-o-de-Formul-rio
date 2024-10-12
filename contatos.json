@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "John Doe",
+        "telefone": "123-456-7890"
+    },
+    {
+        "nome": "Jane Smith",
+        "telefone": "098-765-4321"
+    },
+    {
+        "nome": "Carlos Silva",
+        "telefone": "987-654-3210"
+    },
+    {
+        "nome": "Maria Souza",
+        "telefone": "654-321-0987"
+    },
+    {
+        "nome": "Alice Silva",
+        "telefone": "(11) 91234-5678"
+    },
+    {
+        "nome": "Bruno Costa",
+        "telefone": "(21) 92345-6789"
+    },
+    {
+        "nome": "Carla Mendes",
+        "telefone": "(31) 93456-7890"
+    },
+    {
+        "nome": "Daniel Oliveira",
+        "telefone": "(41) 94567-8901"
+    },
+    {
+        "nome": "Eduarda Lima",
+        "telefone": "(51) 95678-9012"
+    },
+    {
+        "nome": "F\u00e1bio Pereira",
+        "telefone": "(61) 96789-0123"
+    },
+    {
+        "nome": "Gabriela Santos",
+        "telefone": "(71) 97890-1234"
+    },
+    {
+        "nome": "Henrique Almeida",
+        "telefone": "(81) 98901-2345"
+    },
+    {
+        "nome": "Isabela Rocha",
+        "telefone": "(91) 99012-3456"
+    },
+    {
+        "nome": "Jo\u00e3o Souza",
+        "telefone": "(11) 90123-4567"
+    },
+    {
+        "nome": "Juliana Ferreira",
+        "telefone": "(21) 91234-5678"
+    },
+    {
+        "nome": "Lucas Cardoso",
+        "telefone": "(31) 92345-6789"
+    },
+    {
+        "nome": "Mariana Almeida",
+        "telefone": "(41) 93456-7890"
+    },
+    {
+        "nome": "Nicolas Martins",
+        "telefone": "(51) 94567-8901"
+    },
+    {
+        "nome": "Ol\u00edvia Santos",
+        "telefone": "(61) 95678-9012"
+    },
+    {
+        "nome": "Paulo Henrique",
+        "telefone": "(71) 96789-0123"
+    }
+]
