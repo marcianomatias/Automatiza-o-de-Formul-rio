@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de arquivo `README.md` que você pode usar para um projeto de Automatização de Formulário desenvolvido em Python, utilizando a biblioteca Pandas (presumindo que "pd" se refere a ela). Sinta-se à vontade para adaptar as seções conforme necessário.
 
 ```markdown
 # Automatização de Formulário
